@@ -3,6 +3,7 @@
 Week 5
 
 1. Fork this repository.
+
 2. Initialize your project using npm to create a **package.json** file.
 3. Extend the **trucks.js** file by adding to the methods you already created with these new ones:
 
@@ -22,6 +23,7 @@ Week 5
    
 5. Your project must include using the /public files from the origina repo and the static files (e.g. **index.html**) inside it so that visiting the `/` , or root path should display a form that calls and works with the routes you implement for your server.
 6. Include your **.eslintrc** file as part of your repo. Your code should be lint-free based on your lint configuration.
+
 7. Use a **.gitignore** file in your project locally, adding 'node_modules' to the file to prevent the inclusion of node_modules in your repo.
 
 *Extra challenge*: this part is not required, nor is there any extra credit provided for completing it, but if you want an additional challenge, implement a **PUT** route that updates an existing truck object in the foodTrucks list. Additionally, you can modify static, client-side files to allow a truck's information to be updated.
