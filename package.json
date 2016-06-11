@@ -9,6 +9,7 @@
   "author": "Emma Luk",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.15.1"
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
   }
 }
